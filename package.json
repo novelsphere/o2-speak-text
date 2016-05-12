@@ -1,15 +1,15 @@
 {
-  "name": "o2-layer-motion",
+  "name": "o2-speak-text",
   "version": "1.0.0",
   "description": "Move layers with predefined motion",
   "author": "b123400@gmail.com",
   "scripts": {
-    "lint": "eslint -c .eslintrc.json layer-motion.js",
+    "lint": "eslint -c .eslintrc.json speak-text.js",
     "test": "npm run lint"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/novelsphere/o2-layer-motion.git"
+    "url": "https://github.com/novelsphere/o2-speak-text.git"
   },
   "keywords": [
     "o2engine"
